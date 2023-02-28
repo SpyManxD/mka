@@ -8,7 +8,9 @@
     "start": "next start"
   },
   "babel": {
-    "presets": ["next/babel"]
+    "presets": [
+      "next/babel"
+    ]
   },
   "dependencies": {
     "babel": "^6.23.0",

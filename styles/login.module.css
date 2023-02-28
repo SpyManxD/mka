@@ -27,17 +27,6 @@
   margin-bottom: 1rem;
 }
 
-label {
-  font-weight: bold;
-  margin-bottom: 0.5rem;
-}
-
-input {
-  padding: 0.5rem;
-  border: none;
-  border-radius: 3px;
-}
-
 .submitButton {
   padding: 0.5rem;
   background-color: #0077ff;
