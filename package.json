@@ -1,5 +1,5 @@
 {
-  "name": "MKA",
+  "name": "app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,9 +8,7 @@
     "start": "next start"
   },
   "babel": {
-    "presets": [
-      "next/babel"
-    ]
+    "presets": ["next/babel"]
   },
   "dependencies": {
     "babel": "^6.23.0",
